@@ -9,11 +9,6 @@ I'm a Norwegian software consultant passionate about building modern, scalable w
 - **Leading React Certification** efforts at [certificates.dev](https://certificates.dev).
 - **Sharing knowledge** through international conference talks, workshops, and technical blog posts.
 
-### 🛠️ Tech Stack & Interests
-**Frontend:** React, Next.js, TypeScript  
-**Backend:** .NET, Node.js  
-**Cloud:** Azure
-
 ### 📫 Let's Connect
 I'm always happy to discuss technology, collaborate on projects, or help with your Next.js/React challenges.
 
