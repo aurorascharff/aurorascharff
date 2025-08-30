@@ -9,7 +9,9 @@ Norwegian consultant passionate about modern, scalable web applications. Expert 
 - React Certification Lead @ [certificates.dev](https://certificates.dev)
 - Sharing knowledge through talks, workshops & blog posts
 
-### 🌐 Let's Connect
-[![X](https://img.shields.io/badge/X-@aurorascharff-black?logo=x)](https://x.com/aurorascharff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aurora_Scharff-blue?logo=linkedin)](https://www.linkedin.com/in/aurorascharff/)
-[![Website](https://img.shields.io/badge/Website-Blog-green?logo=react)](https://aurorascharff.com/)
+### 🌐 Connect with me
+- **X:** [x.com/aurorascharff](https://x.com/aurorascharff)
+- **Bluesky:** [bsky.app/profile/aurorascharff.no](https://bsky.app/profile/aurorascharff.no)
+- **GitHub:** [github.com/aurorascharff](https://github.com/aurorascharff)
+- **Website:** [aurorascharff.no](https://aurorascharff.no/)
+- **LinkedIn:** [linkedin.com/in/aurora-scharff](https://www.linkedin.com/in/aurora-scharff-a86b88188/)
