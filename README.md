@@ -1,10 +1,3 @@
-# 👋 Hello, I'm Aurora Scharff
+# 👋 Hello, I'm Aurora
 
-**Software Engineer | Microsoft MVP | React Specialist**
-
-Norwegian consultant passionate about modern, scalable web applications. Expert in React/Next.js ecosystem, including **React Server Components**.
-
-### 👨‍💻 Current Focus
-- Consultant at **Crayon Consulting**
-- React Certification Lead @ [certificates.dev](https://certificates.dev)
-- Sharing knowledge through talks, workshops & blog posts
+I'm a Software Engineer from Norway and Microsoft MVP in Web Technologies, currently working as a consultant at Crayon while contributing as a React Certification Lead at [certificates.dev](https://certificates.dev). I specialize in React and Next.js ecosystems, building modern full-stack applications and sharing knowledge through international conferences, workshops, and open source contributions.
