@@ -1,7 +1,11 @@
 # Hi, I'm Aurora 👋🏻
 
-I'm a Software Engineer from Norway, working on developer experience, docs, and education on the Next.js team at Vercel, and as the React Certification Lead at certificates.dev. I contribute to the Next.js framework and React documentation, build developer tooling, and share knowledge through demo apps, blog posts, workshops, and conferences.
+I'm a Software Engineer from Norway, working on developer experience, docs, and education on the [Next.js](https://nextjs.org/) team at [Vercel](https://vercel.com/), and as the React Certification Lead at [certificates.dev](https://certificates.dev/). I contribute to the [Next.js framework](https://github.com/vercel/next.js) and [React documentation](https://react.dev/), build developer tooling, and share knowledge through [demo apps](https://github.com/aurorascharff?tab=repositories), [blog posts](https://aurorascharff.no/), workshops, and conferences.
 
-Resources for getting the most out of Next.js: practical demos for [team chat](https://github.com/aurorascharff/next16-team-chat), [calendars](https://github.com/aurorascharff/next16-calendar), [social apps](https://github.com/aurorascharff/next16-social-media), and [music players](https://github.com/aurorascharff/next-beats), plus agent skills for [app architecture](https://github.com/aurorascharff/nextjs-app-architeture-skill) and [friction logging](https://github.com/aurorascharff/agent-friction-skill).
+A few recent demos exploring Next.js 16.3 best practices:
 
-[Writing and talks →](https://aurorascharff.no/)
+[Team Chat](https://github.com/aurorascharff/next16-team-chat) · [Calendar](https://github.com/aurorascharff/next16-calendar) · [Social Media](https://github.com/aurorascharff/next16-social-media) · [next-beats](https://github.com/aurorascharff/next-beats)
+
+Agent skills:
+
+[Next.js App Architecture](https://github.com/aurorascharff/nextjs-app-architeture-skill) · [Friction Log](https://github.com/aurorascharff/agent-friction-skill)
