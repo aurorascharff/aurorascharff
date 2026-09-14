@@ -5,3 +5,5 @@ I'm a Software Engineer from Norway, working on developer experience, docs, and 
 A few recent demos exploring Next.js 16.3 best practices: [Team Chat](https://github.com/aurorascharff/next16-team-chat) · [Calendar](https://github.com/aurorascharff/next16-calendar) · [Social Media](https://github.com/aurorascharff/next16-social-media) · [Music Player](https://github.com/vercel-labs/next-beats) · [Book Explorer](https://github.com/vercel-labs/next-books)
 
 Agent skills: [Next.js App Architecture](https://github.com/aurorascharff/nextjs-app-architeture-skill) · [Friction Log](https://github.com/aurorascharff/agent-friction-skill)
+
+Apps: [ClickLight](https://github.com/aurorascharff/ClickLight) · [GitVille](https://github.com/aurorascharff/gitville) · [Cronotype](https://github.com/aurorascharff/cronotype)
