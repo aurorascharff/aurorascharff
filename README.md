@@ -4,28 +4,7 @@ I'm a software engineer from Norway, working as MTS at [Vercel](https://vercel.c
 
 As a member of the [React Docs & Community Working Group](https://react.dev/community/team#aurora-scharff), I contribute to [React documentation](https://react.dev/). At [certificates.dev](https://certificates.dev/), I lead React certification. I've shared practical React and Next.js patterns through 50+ talks and workshops worldwide, as well as demo apps, my own blog, and release communication on X and Bluesky.
 
-## Demos
-
-On [Next.js](https://github.com/nextjs):
-
-- [NextBeats](https://github.com/vercel-labs/next-beats)
-- [NextBooks](https://github.com/vercel-labs/next-books)
-
-More demos exploring Next.js 16.3:
-
-- [Team Chat](https://github.com/aurorascharff/next16-team-chat)
-- [Calendar](https://github.com/aurorascharff/next16-calendar)
-- [Social Media](https://github.com/aurorascharff/next16-social-media)
-- [Airline](https://github.com/aurorascharff/next16-airline)
-- [Mailbox](https://github.com/aurorascharff/next16-mail)
-
-## Agent skills
-
-- [Next.js App Architecture](https://github.com/aurorascharff/nextjs-app-architecture-skill)
-- [Friction Log](https://github.com/aurorascharff/agent-friction-skill)
-
-## Apps
-
-- [ClickLight](https://github.com/aurorascharff/ClickLight)
-- [GitVille](https://github.com/aurorascharff/gitville)
-- [Cronotype](https://github.com/aurorascharff/cronotype)
+Demos on [Next.js](https://github.com/nextjs): [NextBeats](https://github.com/vercel-labs/next-beats) · [NextBooks](https://github.com/vercel-labs/next-books)  
+Next.js 16.3 demos: [Team Chat](https://github.com/aurorascharff/next16-team-chat) · [Calendar](https://github.com/aurorascharff/next16-calendar) · [Social Media](https://github.com/aurorascharff/next16-social-media) · [Airline](https://github.com/aurorascharff/next16-airline) · [Mailbox](https://github.com/aurorascharff/next16-mail)  
+Agent skills: [Next.js App Architecture](https://github.com/aurorascharff/nextjs-app-architecture-skill) · [Friction Log](https://github.com/aurorascharff/agent-friction-skill)  
+Apps: [ClickLight](https://github.com/aurorascharff/ClickLight) · [GitVille](https://github.com/aurorascharff/gitville) · [Cronotype](https://github.com/aurorascharff/cronotype)
