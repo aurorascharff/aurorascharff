@@ -1,6 +1,8 @@
 # Hi, I'm Aurora 👋🏻
 
-I'm a software engineer from Norway on the [Next.js](https://nextjs.org/) team at [Vercel](https://vercel.com/), working on agentic developer experience and evals. I contribute to the Next.js framework and [React documentation](https://react.dev/), build developer tooling, and share knowledge through demo apps, [blog posts](https://aurorascharff.no/), [workshops, and conference talks](https://aurorascharff.no/speaking/).
+I'm a Software Engineer from Norway, working on developer experience, docs, and education on the [Next.js](https://nextjs.org/) team at [Vercel](https://vercel.com/). I contribute to the [Next.js framework](https://github.com/vercel/next.js) and [React documentation](https://react.dev/), build developer tooling, and share knowledge through demo apps, blog posts, workshops, and conference talks.
+
+My current focus is agentic developer experience and evals.
 
 Agent skills: [Next.js App Architecture](https://github.com/aurorascharff/nextjs-app-architecture-skill) · [Friction Log](https://github.com/aurorascharff/agent-friction-skill)
 
